@@ -1,0 +1,17 @@
+#include <iostream.h>
+#include <conio.h>
+
+void main()
+{
+    clrscr();
+    int num1, num2, sum;
+
+    cout << "\n Enter Two Numbers ::: ";
+    cin >> num1 >> num2;
+
+    sum = num1 + num2;
+
+    cout << "\n " << num1 << " + " << num2 << " = " << sum;
+
+    getch();
+}
