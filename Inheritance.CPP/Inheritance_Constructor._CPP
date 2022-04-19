@@ -1,7 +1,6 @@
 // Program to explain Inheritance with Default and
 // Parameterized Constructors in both Base class and
-// Derived class and explicit call to Base class Parameterized
-// constructor
+// Derived Class
 
 #include <iostream.h>
 #include <conio.h>
@@ -99,3 +98,5 @@ void main()
 
     getch();
 }
+
+
