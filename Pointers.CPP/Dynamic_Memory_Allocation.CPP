@@ -38,9 +38,4 @@ void main()
 	getch();
 }
 
- Output:
-
- s1 : Nils
-
-C++ Programs. Get More Example from
-https://play.google.com/store/apps/details?id=com.kapidhvaj.cppprograms
+ 
