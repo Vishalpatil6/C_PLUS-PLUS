@@ -22,9 +22,4 @@ void main()
 	getch();
 }
 
- Output:
-
- ps = C++ Programming Examples
-
-C++ Programs. Get More Example from
-https://play.google.com/store/apps/details?id=com.kapidhvaj.cppprograms
+ 
