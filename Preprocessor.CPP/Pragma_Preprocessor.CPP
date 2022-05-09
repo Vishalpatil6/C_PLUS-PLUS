@@ -25,3 +25,4 @@ void fun2()
 {
     cout << "\nInside function2()-After  main().";
     getch();
+}
